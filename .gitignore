@@ -3,3 +3,5 @@ target/
 dbt_packages/
 logs/
 .venv
+yellow_tripdata_2021-01.csv
+
